@@ -1,0 +1,5 @@
+Student{ name:two, totalScore:230}
+Student{ name:four, totalScore:200}
+Student{ name:one, totalScore:120}
+Student{ name:three, totalScore:60}
+Student{ name:five, totalScore:38}

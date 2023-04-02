@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day20/src/com/cspowernode/music/jmf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

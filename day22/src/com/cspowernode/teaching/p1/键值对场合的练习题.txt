@@ -1,0 +1,2 @@
+1.通过Scanner输入一串字符串，然后需要你统计出每个字符出现的次数
+{c=3,d=6,e=12,f=2}--->HashMap<Character,Integer>
